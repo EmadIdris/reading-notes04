@@ -1,0 +1,4 @@
+# Git
+>*At this point, you can do all the basic local Git operations — creating or cloning a repository, making changes, staging and committing those changes, and viewing the history of all the changes the repository has been through. Next, we’ll cover Git’s killer feature: its branching model.* and It’s a version control system tool used to mange and keep tack of your project files, so you can clone a version of your project to your local machine and make changes on it any where any time even if you are offline and even your teammates can also make their own changes.Then you can bush your changes when you done, in addition it greatly minimize the possibility of losing data, makes it extremely difficult for a snapshot of your file that is committed to be lost.
+
+![Git](https://chilli.codes/wp-content/uploads/2020/10/git.jpg)

@@ -1,0 +1,5 @@
+# Growth Mindset
+> A **Growth Mindset** is “the understanding that abilities and understanding can be developed” (Mindset Works, n.d.). Those with a growth mindset believe that they can get smarter, more intelligent, and more talented through putting in time and effort , A Growth Mindset is a fantastic asset to have. The sky’s the limit for people like this, as they are always seeking to find new ways to learn. Importantly, individuals with Growth Mindsets are not fixated on being better than other people or receiving the best grades , People with a Growth Mindset enjoy being around people who are more skilled than them. They see spending time with more talented individuals as opportunities to learn new skills. Additionally, these people are always willing to discard a strategy if it is no longer working and replace it with a new approach.
+
+
+![Growth Mindset](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
