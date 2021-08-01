@@ -27,4 +27,5 @@ Read07         | [Go To](https://emadidris.github.io/reading-notes04/102/Read07)
 Name | Link 
 -----| -----
 Read01         | [Go To](https://emadidris.github.io/reading-notes04/201/class-01)
+Read02         | [Go To](https://emadidris.github.io/reading-notes04/201/class-02)
                         
