@@ -6,6 +6,8 @@ the page (e.g. headings, subheadings, paragraphs).
 emphasis should be placed, the definition of any 
 acronyms used, when given text is a quotation)
 
+![Test](https://www.thoughtco.com/thmb/EODIoetCRBiRHEmXVuEmrIsr2Ns=/1756x1317/smart/filters:no_upscale()/463376515-5804f6585f9b5805c2cc5fad.jpg)
+
 ****
 ### Headings
 >Browsers display the contents of 
@@ -22,6 +24,8 @@ control the size of text, its color,
 and the fonts used when we 
 come to look at CSS.
 
+![Heading](https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x43850)
+
 ### Paragraphs
 >To create a paragraph, surround 
 the words that make up the 
@@ -31,6 +35,9 @@ By default, a browser will show
 each paragraph on a new line 
 with some space between it and 
 any subsequent paragraphs
+
+![Paragraphs](https://codebridgeplus.com/wp-content/uploads/html_paragraph.jpg)
+
 ### Bold & Italic
 >By enclosing words in the tags 
 <b> and </b> we can make 
@@ -51,7 +58,10 @@ mathematical concepts like
 raising a number to a power such 
 as 22
 
+![Bold & Italic](http://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
+
 ### White Space
+
 >In order to make code easier to 
 read, web page authors often 
 add extra spaces or start some 
@@ -68,7 +78,11 @@ authors take advantage of white
 space collapsing to indent their 
 code in order to make it easier 
 to follow.
+
+![White Space](https://www.impressivewebs.com/images/ws-prewrap.jpg)
+
 ### Line Breaks & Horizontal Rules
+
 >As you have already seen, the 
 browser will automatically show 
 each new paragraph or heading 
@@ -76,15 +90,19 @@ on a new line. But if you wanted
 to add a line break inside the 
 middle of a paragraph you can 
 use the line break tag <br />
-### Line Breaks & Horizontal Rules
->Content management systems and HTML editors such as Dreamweaver 
-usually have two views of the page you are creating: a visual editor and a 
-code view.
+
+![Line Breaks & Horizontal Rules](https://slidetodoc.com/presentation_image_h/21cc658d525409cf2ca673d2e23cc943/image-14.jpg)
+
+
 ### Semantic Markup
 >There are some text elements that are not intended to affect the 
 structure of your web pages, but they do add extra information to the 
 pages — they are known as semantic markup.
+
+![Semantic Markup](https://miro.medium.com/max/1000/1*zHJFnu7QF-PgUb8108aLcA.png)
+
 ### Strong & Emphasis
+
 >The use of the <strong>
 element indicates that its 
 content has strong importance. 
@@ -94,8 +112,12 @@ be said with strong emphasis.
 By default, browsers will show 
 the contents of a <strong>
 element in bold.
+
+![Strong & Emphasis](https://slideplayer.com/slide/13763989/85/images/15/Using+Markup+Languages%3A+HTML.jpg)
+
 ### Quotations
->The <blockquote> element is 
+
+> The <blockquote> element is 
 used for longer quotes that take 
 up an entire paragraph. Note 
 how the <p> element is still 
@@ -107,6 +129,8 @@ element, however you should not
 use this element just to indent a 
 piece of text — rather you should 
 achieve this effect using CSS.
+
+![Quotations](https://s1.o7planning.com/en/12467/images/47184216.png)
 
 ### Abbreviations & Acronyms
 > If you use an abbreviation or 
@@ -124,6 +148,8 @@ just uses the <abbr> element
 for both abbreviations and 
 acronyms
 
+![Abbreviations & Acronyms](https://www.android-examples.com/wp-content/uploads/2016/03/abbr-tag.png)
+
 ### Citations & Definitions
 
 >When you are referencing a 
@@ -139,6 +165,7 @@ HTML 4, so most people are
 likely to continue to use it.
 Browsers will render the content 
 of a <cite> element in italics.
+
 
 ### Author Details
 
@@ -175,6 +202,8 @@ usually has a line through it
 
 # Introducing CSS
 
+![CSS](https://www.freetutorialsplus.com/css-tutorial/images/css-illustration.png)
+
 CSS allows you to create rules that specify how the content of 
 an element should appear. For example, you can specify that 
 the background of the page is cream, all paragraphs should 
@@ -201,6 +230,9 @@ although they may appear within an HTML page
 ****
 
 # JavaScript
+
+![JS](https://2.bp.blogspot.com/-z6q9nVbRxTI/XD-eNSUWtrI/AAAAAAAAMC0/bYratloel2AytKlQXuaFqD51D3P54xE5gCLcBGAs/s1600/%25D9%2585%25D8%25B5%25D8%25A7%25D8%25AF%25D8%25B1%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585%2B%25D8%25AC%25D8%25A7%25D9%2581%25D8%25A7%2B%25D8%25B3%25D9%2583%25D8%25B1%25D9%258A%25D8%25A8%25D8%25AA.png)
+
 ## Basic JavaScript Instructions
 + A script is made up of a series of statements. Each 
 statement is like a step in a recipe. 
