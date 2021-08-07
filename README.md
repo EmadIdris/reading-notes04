@@ -31,4 +31,5 @@ Read01         | [Go To](https://emadidris.github.io/reading-notes04/201/class-0
 Read02         | [Go To](https://emadidris.github.io/reading-notes04/201/class-02)
 Read03         | [Go To](https://emadidris.github.io/reading-notes04/201/class-03)
 Read04         | [Go To](https://emadidris.github.io/reading-notes04/201/class-04)
-Read05         | [Go To](https://emadidris.github.io/reading-notes04/201/class-05)                        
+Read05         | [Go To](https://emadidris.github.io/reading-notes04/201/class-05)
+Read06         | [Go To](https://emadidris.github.io/reading-notes04/201/class-06)                        
