@@ -40,3 +40,5 @@ Read10         | [Go To](https://emadidris.github.io/reading-notes04/201/class-1
 Read11         | [Go To](https://emadidris.github.io/reading-notes04/201/class-11)
 Read12         | [Go To](https://emadidris.github.io/reading-notes04/201/class-12)
 Read13         | [Go To](https://emadidris.github.io/reading-notes04/201/class-13)
+Read14a        | [Go To](https://emadidris.github.io/reading-notes04/201/class-14a)
+Read14b        | [Go To](https://emadidris.github.io/reading-notes04/201/class-14b)
