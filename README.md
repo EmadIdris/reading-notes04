@@ -9,7 +9,7 @@
 ## Table of Contents
 
 
-### for 102
+### for 102 - Intro to Software Development
 
 Name | Link 
 -----| -----
@@ -23,7 +23,7 @@ Read05         | [Go To](https://emadidris.github.io/reading-notes04/102/Read05)
 Read06         | [Go To](https://emadidris.github.io/reading-notes04/102/Read06)
 Read07         | [Go To](https://emadidris.github.io/reading-notes04/102/Read07)
 
-### For 201
+### For 201 - Foundations of Software Development
 
 Name | Link 
 -----| -----
@@ -42,3 +42,9 @@ Read12         | [Go To](https://emadidris.github.io/reading-notes04/201/class-1
 Read13         | [Go To](https://emadidris.github.io/reading-notes04/201/class-13)
 Read14a        | [Go To](https://emadidris.github.io/reading-notes04/201/class-14a)
 Read14b        | [Go To](https://emadidris.github.io/reading-notes04/201/class-14b)
+
+### For 301 - Intermediate Software Development
+
+Name | Link 
+-----| -----
+Read01         | [Go To](https://emadidris.github.io/reading-notes04/301/class-01)
