@@ -48,3 +48,4 @@ Read14b        | [Go To](https://emadidris.github.io/reading-notes04/201/class-1
 Name | Link 
 -----| -----
 Read01         | [Go To](https://emadidris.github.io/reading-notes04/301/class-01)
+Read02         | [Go To](https://emadidris.github.io/reading-notes04/301/class-02)
