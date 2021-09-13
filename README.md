@@ -49,3 +49,4 @@ Name | Link
 -----| -----
 Read01         | [Go To](https://emadidris.github.io/reading-notes04/301/class-01)
 Read02         | [Go To](https://emadidris.github.io/reading-notes04/301/class-02)
+Read03         | [Go To](https://emadidris.github.io/reading-notes04/301/class-03)
