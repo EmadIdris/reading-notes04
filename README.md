@@ -53,3 +53,4 @@ Read03         | [Go To](https://emadidris.github.io/reading-notes04/301/class-0
 Read04         | [Go To](https://emadidris.github.io/reading-notes04/301/class-04)
 Read05         | [Go To](https://emadidris.github.io/reading-notes04/301/class-05)
 Read06         | [Go To](https://emadidris.github.io/reading-notes04/301/class-06)
+Read07         | [Go To](https://emadidris.github.io/reading-notes04/301/class-07)
