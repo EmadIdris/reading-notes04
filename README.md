@@ -59,3 +59,4 @@ Read09         | [Go To](https://emadidris.github.io/reading-notes04/301/class-0
 Read10         | [Go To](https://emadidris.github.io/reading-notes04/301/class-10)
 Read11         | [Go To](https://emadidris.github.io/reading-notes04/301/class-11)
 Read12         | [Go To](https://emadidris.github.io/reading-notes04/301/class-12)
+Read13         | [Go To](https://emadidris.github.io/reading-notes04/301/class-13)
