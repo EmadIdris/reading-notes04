@@ -60,3 +60,9 @@ Read10         | [Go To](https://emadidris.github.io/reading-notes04/301/class-1
 Read11         | [Go To](https://emadidris.github.io/reading-notes04/301/class-11)
 Read12         | [Go To](https://emadidris.github.io/reading-notes04/301/class-12)
 Read13         | [Go To](https://emadidris.github.io/reading-notes04/301/class-13)
+
+### for 401 - Advanced Software Development in Full-Stack JavaScript
+
+Name | Link 
+-----| -----
+Prep Readings | [Go To](https://emadidris.github.io/reading-notes04/401/prep-01)
