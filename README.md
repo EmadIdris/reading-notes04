@@ -66,3 +66,4 @@ Read13         | [Go To](https://emadidris.github.io/reading-notes04/301/class-1
 Name | Link 
 -----| -----
 Prep Readings | [Go To](https://emadidris.github.io/reading-notes04/401/prep-01)
+Read01        | [Go To](https://emadidris.github.io/reading-notes04/401/read01)
