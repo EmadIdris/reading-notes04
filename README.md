@@ -67,3 +67,5 @@ Name | Link
 -----| -----
 Prep Readings | [Go To](https://emadidris.github.io/reading-notes04/401/prep-01)
 Read01        | [Go To](https://emadidris.github.io/reading-notes04/401/read01)
+Read02        | [Go To](https://emadidris.github.io/reading-notes04/401/read02)
+
