@@ -70,6 +70,8 @@ Read01        | [Go To](https://emadidris.github.io/reading-notes04/401/read01)
 Read02        | [Go To](https://emadidris.github.io/reading-notes04/401/read02)
 Read03        | [Go To](https://emadidris.github.io/reading-notes04/401/read03)
 Read04        | [Go To](https://emadidris.github.io/reading-notes04/401/read04)
+Linked Lists  | [Go To](https://emadidris.github.io/reading-notes04/401/read05)
+
 
 
 
