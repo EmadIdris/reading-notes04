@@ -74,6 +74,8 @@ Linked Lists  | [Go To](https://emadidris.github.io/reading-notes04/401/read05)
 Read06        | [Go To](https://emadidris.github.io/reading-notes04/401/read06)
 Read07        | [Go To](https://emadidris.github.io/reading-notes04/401/read07)
 Read08        | [Go To](https://emadidris.github.io/reading-notes04/401/read08)
+Read09        | [Go To](https://emadidris.github.io/reading-notes04/401/read09)
+
 
 
 
