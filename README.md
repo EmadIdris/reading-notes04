@@ -77,6 +77,7 @@ Read08        | [Go To](https://emadidris.github.io/reading-notes04/401/read08)
 Read09        | [Go To](https://emadidris.github.io/reading-notes04/401/read09)
 Read10        | [Go To](https://emadidris.github.io/reading-notes04/401/read10)
 Read11        | [Go To](https://emadidris.github.io/reading-notes04/401/read11)
+Read12        | [Go To](https://emadidris.github.io/reading-notes04/401/read12)
 
 
 
