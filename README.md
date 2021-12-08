@@ -88,6 +88,7 @@ Read19        | [Go To](https://emadidris.github.io/reading-notes04/401/read19)
 Read26        | [Go To](https://emadidris.github.io/reading-notes04/401/read26)
 Read27        | [Go To](https://emadidris.github.io/reading-notes04/401/read27)
 Read28        | [Go To](https://emadidris.github.io/reading-notes04/401/read28)
+Read29        | [Go To](https://emadidris.github.io/reading-notes04/401/read29)
 
 
 
