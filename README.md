@@ -91,6 +91,8 @@ Read28        | [Go To](https://emadidris.github.io/reading-notes04/401/read28)
 Read29        | [Go To](https://emadidris.github.io/reading-notes04/401/read29)
 Hash-Tables        | [Go To](https://emadidris.github.io/reading-notes04/401/Hash-Tables)
 Read31        | [Go To](https://emadidris.github.io/reading-notes04/401/read31)
+Read32        | [Go To](https://emadidris.github.io/reading-notes04/401/read32)
+
 
 
 
