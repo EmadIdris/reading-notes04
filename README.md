@@ -93,6 +93,9 @@ Hash-Tables        | [Go To](https://emadidris.github.io/reading-notes04/401/Has
 Read31        | [Go To](https://emadidris.github.io/reading-notes04/401/read31)
 Read32        | [Go To](https://emadidris.github.io/reading-notes04/401/read32)
 Read33        | [Go To](https://emadidris.github.io/reading-notes04/401/read33)
+Read34        | [Go To](https://emadidris.github.io/reading-notes04/401/read34)
+Graphs        | [Go To](https://emadidris.github.io/reading-notes04/401/Graphs)
+
 
 
 
