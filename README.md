@@ -95,6 +95,10 @@ Read32        | [Go To](https://emadidris.github.io/reading-notes04/401/read32)
 Read33        | [Go To](https://emadidris.github.io/reading-notes04/401/read33)
 Read34        | [Go To](https://emadidris.github.io/reading-notes04/401/read34)
 Graphs        | [Go To](https://emadidris.github.io/reading-notes04/401/Graphs)
+Read36        | [Go To](https://emadidris.github.io/reading-notes04/401/read36)
+Read37        | [Go To](https://emadidris.github.io/reading-notes04/401/read37)
+Read38        | [Go To](https://emadidris.github.io/reading-notes04/401/read38)
+Read39        | [Go To](https://emadidris.github.io/reading-notes04/401/read39)
 
 
 
