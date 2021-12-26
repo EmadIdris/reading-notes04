@@ -99,6 +99,11 @@ Read36        | [Go To](https://emadidris.github.io/reading-notes04/401/read36)
 Read37        | [Go To](https://emadidris.github.io/reading-notes04/401/read37)
 Read38        | [Go To](https://emadidris.github.io/reading-notes04/401/read38)
 Read39        | [Go To](https://emadidris.github.io/reading-notes04/401/read39)
+Read41        | [Go To](https://emadidris.github.io/reading-notes04/401/read41)
+Read42        | [Go To](https://emadidris.github.io/reading-notes04/401/read42)
+Read43        | [Go To](https://emadidris.github.io/reading-notes04/401/read43)
+
+
 
 
 
